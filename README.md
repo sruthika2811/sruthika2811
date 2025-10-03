@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](sruthika2811/banner.png)
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sruthika Paladhi </h1>
