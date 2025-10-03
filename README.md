@@ -1,6 +1,5 @@
 # Welcome to my GitHub Profile
 
-![Banner](./banner.png)
 
 Hi, I am Sruthika, an aspiring software developer...
 
