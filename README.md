@@ -1,4 +1,5 @@
-![Banner](./banner.png)
+![Banner](assets/banner.png)
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sruthika Paladhi </h1>
 🎓 Aspiring Software Developer | 💻 Passionate about Coding | 📊 Interested in Python Programming & Web Development  
