@@ -1,4 +1,8 @@
-![Banner](./sruthika2811/banner.png)
+# Welcome to my GitHub Profile
+
+![Banner](./banner.png)
+
+Hi, I am Sruthika, an aspiring software developer...
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sruthika Paladhi </h1>
