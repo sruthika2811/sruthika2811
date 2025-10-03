@@ -1,6 +1,7 @@
+![Banner](./banner.png)
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Sruthika Paladhi </h1>
-<h3 align="center">Aspiring Software Developer | Python | Java | Web Development</h3>
+🎓 Aspiring Software Developer | 💻 Passionate about Coding | 📊 Interested in Python Programming & Web Development  
 
 <!-- Profile Image -->
 <p align="center">
@@ -61,3 +62,5 @@ I am passionate about building projects that solve real-world problems. I have h
 ---
 
 <p align="center">“Strive to build, learn, and grow every day!”</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sruthika2811&color=blue)
